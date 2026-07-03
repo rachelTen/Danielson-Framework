@@ -1,7 +1,7 @@
 # Danielson-Framework
 
 ## Product Summary
-The Charlotte Danielson Framework, is an extensive non quanitifiabe tool use to either evaluate teachers and for teachers to evaluate themselves. Due to the length, the problem exists - where does a teaching professional find the time to do the assessment. This project automizes the process, providing quick reference guides, and quantifiable figures a teacher can use to enhance their practice. 
+The Charlotte Danielson Framework is a comprehensive, qualitative tool designed for both administrative evaluation and teacher self-assessment. Given its extensive nature, a practical challenge arises: teaching professionals often lack the time required to complete it. This project automates the process, generating quick reference guides and quantifiable data that teachers can use to efficiently enhance their practice.
 
 ## Target Users
 Teaching professionals, adminstrators in education
