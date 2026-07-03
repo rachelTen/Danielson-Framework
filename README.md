@@ -1,4 +1,10 @@
-# Danielson-Framework
+# Danielson Framework
+
+This repository was used as the original project description page.
+
+The full working app repository is now available here:
+
+[View the full app repository](https://teacher-evaluation-a-bxi4.bolt.host)# Danielson-Framework
 
 ## Product Summary
 The Charlotte Danielson Framework is a comprehensive, qualitative tool designed for both administrative evaluation and teacher self-assessment. Given its extensive nature, a practical challenge arises: teaching professionals often lack the time required to complete it. This project automates the process, generating quick reference guides and quantifiable data that teachers can use to efficiently enhance their practice.
